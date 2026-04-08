@@ -1,3 +1,3 @@
 #just check
 print("helloww")
-hello
+print("why")
